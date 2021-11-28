@@ -1,7 +1,7 @@
 # Github Profiles
 > The project was done as part of learning practice following one of the famous course by Brad Traversy on Udemy platform.
 
-![desktop](https://meri-mg.github.io/Github-Profiles-Project-28/master/../../../../desktop.png)
+![desktop](https://meri-mg.github.io/Github-Profiles-Project-28/master/desktop.png)
 
 ## Live Demo
 
